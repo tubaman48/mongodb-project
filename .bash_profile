@@ -1,0 +1,1 @@
+export PATH="$PATH:/usr/bin/mongo /usr/share/man/man1/mongo.1.gz"
